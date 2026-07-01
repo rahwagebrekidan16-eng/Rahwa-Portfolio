@@ -9,7 +9,7 @@ I'm a self taught data analyst with a background in computer engineering. Now bu
 ▪ Power BI
 
 ## My Projects
-[Sales-Analytics-Projects] ()
+[Sales-Analytics-Projects] (https://github.com/rahwagebrekidan16-eng/Sales-Analytics-Project)
 
 ## Curently Learning 
 ▪ SQL
